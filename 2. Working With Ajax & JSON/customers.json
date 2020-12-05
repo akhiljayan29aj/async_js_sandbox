@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Akhil Jayan",
+    "company": "123 Designs",
+    "phone": "0000009211"
+  },
+  {
+    "id": 2,
+    "name": "Arjun Jayan",
+    "company": "Hello productions",
+    "phone": "0000009211"
+  },
+  {
+    "id": 3,
+    "name": "Mary Smith",
+    "company": "DingDing Bells",
+    "phone": "0000009211"
+  }
+]
